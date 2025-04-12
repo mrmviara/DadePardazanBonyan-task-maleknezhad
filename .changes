@@ -1,0 +1,12 @@
+> npm install -D tailwindcss@^3.4.17
+> npm install D postcss@^8.4.49
+> npm install D autoprefixer@^10.4.20
+> npx tailwindcss init -p
+
+> npm i react-router-dom
+
+delete 'App.css' file and import
+delete 'react.svg' file and import
+delete 'vite.svg' file and import
+
+> npm install --save-dev @types/node
